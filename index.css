@@ -1,0 +1,26 @@
+/* index.css */
+
+p , important , .email{
+    font-family: 'Roboto', sans-serif;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Ensure the body takes at least the full viewport height */
+    margin: 10px;
+}
+.logo{
+   font-weight: bold;
+   font-size:large;
+}
+main {
+    flex: 1;
+ /* Allow the main content to grow and take remaining space */
+}
+
+footer {
+    margin-top:auto; 
+    align-self: center;/* Push the footer to the bottom */
+}
+
+/* Additional styles can be added as needed */
