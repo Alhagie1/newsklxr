@@ -1,32 +1,28 @@
 # newsklxr (new school extended reality)
-newsklxr
-don't memorize
-a opensource web xr startup, a platform for enhancing interactive learning for GENZ
+🚀 Contribute to Open Source and Revolutionize Education with WebXR!
 
-looking for interested professionals who want to contribute to this project
-or interns who are looking for internships can drop a mail.
+👋 Hello there! We're excited to invite you to contribute to an open-source project that aims to transform education for the next generation.
 
-email: nchaithanya735@gmail.com
+🌐 Project Overview:
 
-positions : available (just drop a mail if u know any one of these and just start building)
+    Repository: Newsklxr Repository
+    Description: This is an open-source WebXR project, a platform dedicated to enhancing learning for Gen Z. Our goal is to create an immersive educational experience by leveraging AR and VR technologies. Developers like you play a crucial role in shaping the platform, collaborating with educators to craft engaging content using WebGL frameworks.
 
-frontend : 
-    react , react VR
-    threejs,Aframe js,babylon js,play canvas ,aframe js,arjs,web xr,webvr etc.. webGL frameworks 
-backend:
-    Node.js with Express
-    Django (Python)
-    Flask (Python)
-    Ruby on Rails (Ruby)
-    ASP.NET (C#)
-node js
-python
-debugging and testing:
-hosting and deployment:
-senior full stack dev
-and more positions will be added
-role : developers need to collaborate with teachers , college professors, to make each module in the platform
+🚀 How You Can Contribute:
 
-lets change this education system together.
+    Developers: Dive into the codebase, enhance features, and contribute to the platform's functionality.
+    Content Creators: Collaborate with teachers to create exciting AR/VR educational content.
 
-© 2023 newsklxr. All rights reserved.
+🌈 Why Contribute?
+
+    Impact: Make a meaningful contribution to the education sector and revolutionize the way Gen Z learns.
+    Learning Opportunity: Gain hands-on experience with cutting-edge WebXR technologies and WebGL frameworks.
+    Community: Join a vibrant community of developers and educators passionate about reshaping education.
+
+🔧 Getting Started:
+
+    Check out the Newsklxr Repository.
+    Review the project structure and explore open issues.
+    Fork the repository and start contributing!
+
+🤝 Let's change the education system together! Join us in creating a more immersive and engaging learning experience. 🌐💡
