@@ -6,6 +6,7 @@
 🌐 Project Overview:
 
     Repository: Newsklxr Repository
+    Website: Newsklxr Project Website
     Description: This is an open-source WebXR project, a platform dedicated to enhancing learning for Gen Z. Our goal is to create an immersive educational experience by leveraging AR and VR technologies. Developers like you play a crucial role in shaping the platform, collaborating with educators to craft engaging content using WebGL frameworks.
 
 🚀 How You Can Contribute:
