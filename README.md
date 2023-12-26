@@ -5,8 +5,8 @@
 
 🌐 Project Overview:
 
-    Repository: Newsklxr Repository
-    Website: Newsklxr Project Website
+    Repository: <a href="https://github.com/nochatcode/newsklxr/tree/main">Newsklxr Repository</a>
+    Website <a href="https://nochatcode.github.io/newsklxr/">: Newsklxr Project Website</a>
     Description: This is an open-source WebXR project, a platform dedicated to enhancing learning for Gen Z. Our goal is to create an immersive educational experience by leveraging AR and VR technologies. Developers like you play a crucial role in shaping the platform, collaborating with educators to craft engaging content using WebGL frameworks.
 
 🚀 How You Can Contribute:
