@@ -1,4 +1,4 @@
-# newsklxr
+# newsklxr (new school extended reality)
 newsklxr
 don't memorize
 a opensource web xr startup, a platform for enhancing interactive learning for GENZ
