@@ -8,13 +8,17 @@ or interns who are looking for internships can drop a mail.
 
 email: nchaithanya735@gmail.com
 
-positions : available
+positions : available (just drop a mail if u know any one of these and just start building)
 
-frontend :
-react
-react VR
-threejs,Aframe js,babylon js,play canvas etc.. webGL frameworks
+frontend : 
+    react , react VR
+    threejs,Aframe js,babylon js,play canvas ,aframe js,arjs,web xr,webvr etc.. webGL frameworks 
 backend:
+    Node.js with Express
+    Django (Python)
+    Flask (Python)
+    Ruby on Rails (Ruby)
+    ASP.NET (C#)
 node js
 python
 debugging and testing:
